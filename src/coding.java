@@ -1,7 +1,12 @@
-import org.w3c.dom.ls.LSOutput;
 public class coding {
-    public static void main(String[] args) {
-        System.out.println("Hello World");
+    public static void Main(String[] args){
+        //Variables
+        String name "Tony Stark";
+        int age ="18";
+        double price = 25.25;
+        int a = 25;
+        int b =10;
+
     }
 }
 
